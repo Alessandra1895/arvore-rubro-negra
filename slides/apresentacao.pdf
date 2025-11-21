@@ -1,10 +1,1 @@
-# Criar pasta slides
-mkdir slides
-
-# Mover PDF para a pasta
-mv apresentacao.pdf slides/
-
-# Adicionar ao git
-git add slides/apresentacao.pdf
-git commit -m "docs: adicionar apresentação em PDF"
-git push
+https://drive.google.com/file/d/1ylaMb-IF5z8b4oQDuYmoC7MOpj2tyIlc/view?usp=sharing
