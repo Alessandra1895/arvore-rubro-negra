@@ -3,7 +3,7 @@
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org)
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
-[![Video](https://youtu.be/LQ8AJOZi0Tg?si=DSuPou7BjQ227Tn4)] https://youtu.be/LQ8AJOZi0Tg?si=DSuPou7BjQ227Tn4
+[![Video](https://img.shields.io/badge/Video-MIT-red)](https://youtu.be/LQ8AJOZi0Tg?si=DSuPou7BjQ227Tn4)
 
 Implementação educativa de uma **Árvore Rubro-Negra** em Python, com demonstrações interativas e visualizações.
 
