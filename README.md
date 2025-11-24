@@ -9,7 +9,7 @@ Implementação educativa de uma **Árvore Rubro-Negra** em Python, com demonstr
 
 ## 📺 Vídeo Explicativo
 
-🎬 **Assista ao vídeo completo:** [LINK DO YOUTUBE] https://youtu.be/LQ8AJOZi0Tg?si=DSuPou7BjQ227Tn4
+🎬 **Assista ao vídeo completo:** https://youtu.be/LQ8AJOZi0Tg?si=DSuPou7BjQ227Tn4
 
 *Vídeo educativo produzido para a disciplina de Estruturas de Dados II*
 
